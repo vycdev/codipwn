@@ -10,7 +10,7 @@ https://github.com/jayofelony/pwnagotchi/wiki
 
 I use both bt-tether and the ethernet gadget drivers. 
 
-Also I use a Raspberry Pi Zero 2 W for this. 
+Also I use a Raspberry Pi Zero 2 W for this. I haven't got my screen yet, but I'm going to use a Waveshare 2.13 V2 e-ink display. The screen is not included in the configuration yet. 
 
 ## Plugins 
 A list of all the available plugins can be found here: 
