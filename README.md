@@ -12,6 +12,16 @@ I use both bt-tether and the ethernet gadget drivers.
 
 Also I use a Raspberry Pi Zero 2 W for this. I haven't got my screen yet, but I'm going to use a Waveshare 2.13 V2 e-ink display. The screen is not included in the configuration yet. 
 
+You can find the configuration file in: 
+```
+/usr/local/share/pwnagotchi
+```
+
+You can find collected handshakes in: 
+```
+/home/pi
+```
+
 ## Plugins 
 A list of all the available plugins can be found here: 
 https://docs.google.com/spreadsheets/d/1os8TRM3Pc9Tpkqzwu548QsDFHNXGuRBiRDYEsF3-w_A/htmlview
